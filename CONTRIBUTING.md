@@ -1,1 +1,5 @@
-Contributing
+# Contributing
+
+## Git
+
+### Practice
